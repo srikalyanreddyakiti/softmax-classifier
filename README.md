@@ -29,5 +29,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## ✍️ Author
 
-""Sri Kalyan Reddy Akiti""
+**Sri Kalyan Reddy Akiti** 
 data science and artificial intellignce
