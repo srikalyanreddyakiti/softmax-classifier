@@ -1,2 +1,33 @@
-# softmax-classifier
-The notebook provides a hands-on walkthrough of training, evaluating, and visualizing a Support Vector Machine classifier. It uses a standard dataset and includes steps for data preprocessing, model fitting, prediction, and performance evaluation.
+# 🧠 Support Vector Machine (SVM) Classifier
+
+This repository contains a Jupyter notebook demonstrating the implementation of a Support Vector Machine (SVM) model for classification tasks using Python and scikit-learn.
+
+## 🛠️ Features
+
+- Loads and prepares dataset for training  
+- Trains an SVM classifier using scikit-learn  
+- Visualizes decision boundaries and support vectors  
+- Evaluates model accuracy and confusion matrix  
+
+## 📁 Files
+
+- `svm.ipynb`: Main notebook containing the entire implementation and visualizations
+
+## 💻 Tech Stack
+
+- Python  
+- Jupyter Notebook  
+- scikit-learn  
+- matplotlib  
+- seaborn  
+- NumPy  
+- pandas  
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## ✍️ Author
+
+Sri Kalyan Reddy Akiti
+data science and artificial intellignce
