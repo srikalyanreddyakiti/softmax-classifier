@@ -23,7 +23,11 @@ This repository contains a Jupyter notebook demonstrating the implementation of 
 - NumPy  
 - pandas  
 
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
 ## ✍️ Author
 
-**Sri Kalyan Reddy Akiti** 
-data science and artificial intellignce
+**Sri Kalyan Reddy Akiti**  
+Data Science and Artificial Intelligence
